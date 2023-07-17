@@ -1,8 +1,9 @@
 # Apple-App-Store-Analysis-SQL-Tableau_Viz 
 This repository provides an in-depth analysis of the Apple App Store, offering insights into app genres, user ratings, and market trends. It includes data exploration, visualizations, and recommendations for app developers and marketers.
 
------Apple Data Analysis----Sql EDA----Tableau Viz----
+Tableau Link:https://public.tableau.com/views/AppleAppStoreAnalysis_16895090917270/AppleAppsStore?:language=en-GB&:display_count=n&:origin=viz_share_link
 
+-----Apple Data Analysis----Sql EDA----Tableau Viz----
 
 create TABLE applestore_description_combined AS
 
